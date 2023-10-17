@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/928524/screenshots/3549640/media/ae8e8ee3c50c6b3f2b4ad5b27a69ca11.gif" width="431" height="323"/>
+  <img src="https://thumbs.dreamstime.com/z/man-behind-computer-working-9-to-5-16614725.jpg?w=768" width="431" height="323"/>
   <br />
   ✨ This is my personal public GIT repository. I also have some private git projects. ✨
 </div>
