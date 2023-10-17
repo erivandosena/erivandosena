@@ -1,10 +1,4 @@
-<div id="header" align="center">
-  <h1>
-    👋 hey there! I'm Erivando
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
+<h1>👋 hey there! I'm Erivando</h1>
 <div align="center">
   <img src="https://thumbs.dreamstime.com/z/man-behind-computer-working-9-to-5-16614725.jpg?w=768" width="431" height="323"/>
   <br />
@@ -95,5 +89,7 @@ I'm an professional in IT and a PhD student, I am interested in developing dynam
 ### :handshake: Support:
 
 <p>
-  <a href="https://www.buymeacoffee.com/erivando"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="erivando" /></a>
+  <a href="https://www.buymeacoffee.com/erivando"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Doar" /></a>
 </p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="45px" />
+
