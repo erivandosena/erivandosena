@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me:
 
-I'm an professional in IT and a PhD student, I am interested in developing dynamic applications and DevOps from Brazil or Portugal.  
+I'm an professional in IT and a PhD student, I am interested in developing dynamic applications and DevOps in Brazil, including other Portuguese-speaking countries (CPLP) and also Portugal.  
 
 [![Website Badge](https://img.shields.io/badge/-Meu%20Site-%230077B5?style=flat&logo=Internet%20Archive&logoColor=white)](https://www.erivandosena.com.br) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/senadevtips) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405E?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/senadevtips) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/senadevtips) [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white&style=flat)](https://www.twitch.tv/senadevtips) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/SenaDEVTips) [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/c/erivandosena) <img src="https://komarev.com/ghpvc/?username=erivandosena&style=flat-square&color=blue" alt=""/>
 
