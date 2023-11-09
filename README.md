@@ -23,11 +23,11 @@ I'm an professional in IT and a PhD student, I am interested in developing dynam
 
 ### :fire: My Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivandosena&show_icons=true&locale=en" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erivandosena&show_icons=true&layout=compact" alt="Top Langs" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=erivandosena&show_icons=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=erivandosena&theme=shadow_green&show_icons=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erivandosena&" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erivandosena&theme=sunset-gradient" alt="GitHub Streak" />
 
 ### :computer: Languages and Tools:
 
